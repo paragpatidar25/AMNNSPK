@@ -1,0 +1,6 @@
+node_modules/
+dist/
+goe.db
+goe.db-shm
+goe.db-wal
+.env
